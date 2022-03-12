@@ -1,5 +1,5 @@
-## Data Over Sound
-#### (Transfer data with sound waves between android devices)
+## Audio Modem
+#### (Transfer encrypted data via standard telephone line or speakers and microphone.)
 * Description:
     *   Chat or send/receive various data.
     *   No need for internet wifi or cellular network, just speakers and microphone.
